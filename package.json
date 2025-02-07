@@ -3,7 +3,7 @@
     "vitest": "^3.0.5"
   },
   "scripts": {
-    "build": "vite build && npm run test",
+    "build": "vite build",
     "test": "vitest run"
   }
 }
