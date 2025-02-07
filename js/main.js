@@ -1,4 +1,4 @@
-import { sum } from "sum";
+import { sum } from "./sum.js";
 
 document.addEventListener("DOMContentLoaded", (event) => {
    const n = sum(1, 2)
